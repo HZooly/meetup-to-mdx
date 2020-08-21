@@ -1,0 +1,11 @@
+{
+  "name": "meetup-to-mdx",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node meetup-to-mdx"
+  },
+  "author": "Hugo Torzuoli",
+  "dependencies": {
+    "slugify": "^1.4.5"
+  }
+}

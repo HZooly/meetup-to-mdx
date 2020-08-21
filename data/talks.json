@@ -1,0 +1,498 @@
+[
+    {
+        "edition": 17,
+        "title": "Apéro Web #17 : trucs et astuces CSS",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/213339032/",
+        "timestamp": "1414692000000",
+        "date": "2014-10-30",
+        "content": "Votre \"vertical-align\" refuse de centrer ce fichu texte ? \"Flex-box\" ne se comporte pas comme vous l'attendez ? Vous ne savez pas comment structurer proprement vos fichiers CSS ? Qu'à cela ne tienne, cet apéro est fait pour vous !\n\nVenez échanger vos meilleures astuces CSS lors de cette 17ème édition des Apéros Web Nancy. Que ce soit un plug-in pour vous faciliter le développement, des retours d'expériences sur l'organisation de vos feuilles de style ou des explications sur le fonctionnement d'une fonctionnalité méconnue, n'hésitez pas à y partager vos connaissances !"
+    },
+    {
+        "edition": 18,
+        "title": "Apéro Web Nancy #18 : l'ingénierie Web dirigée par les modèles",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/217296502/",
+        "timestamp": "1417111200000",
+        "date": "2014-11-27",
+        "content": "La conception d'interfaces web est de plus en plus complexe : les navigateurs, terminaux et plateformes permettant d'accéder au web sont de plus en plus nombreux et divers, de même que les utilisateurs et leurs contextes d'usage. Si l'on souhaite faire une interface web de qualité, l'ensemble des facettes à couvrir et donc des compétences nécessaires ne cesse de croître (utilité, utilisabilité, accessibilité, design graphique, design émotionnel, expérience utilisateur, sécurité, robustesse, performance, etc.).\n\nOn entend souvent parler de l'industrialisation du web pour gérer toute cette complexité, mais les solutions actuelles pour cette industrialisation sont essentiellement des méthodes (non outillées) qui couvrent partiellement le processus de conception d'une interface web. L'ingénierie dirigée par les modèles (IDM, ou model-driven engineering, MDE en anglais) est une approche de développement logiciel qui devrait permettre d'apporter dans un avenir proche une solution globale au problème d'industrialisation du web. Elle est actuellement appliquée à la conception de systèmes industriels complexes et fait l'objet de travaux de recherche depuis une dizaine d'années dans le but d'appliquer ces résultats à la conception d'interfaces web.\n\nCette présentation, réalisée par Alain Vagner, permettra de découvrir ce qu'est l'IDM, comment l'appliquer concrètement au web et ses principaux bénéfices (automatisation des tâches répétitives, capitalisation des savoirs et savoir-faire, support à la collaboration dans les équipes pluridisciplinaires, vérification de la qualité). Cette présentation sera illustrée d'exemples concrets et montrera les environnements logiciels actuellement disponibles pour mettre en place une démarche IDM dans vos projets."
+    },
+    {
+        "edition": 19,
+        "title": "Apéro Web Nancy #19 : Oculus Rift",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/219080234/",
+        "timestamp": "1418752800000",
+        "date": "2014-12-16",
+        "content": "Plongez dans la réalité virtuelle lors de ce 19ème Apéro Web consacré à l'Oculus Rift. Outre une rapide présentation de ce casque par Luc Tonin, vous pourrez également (et surtout) l'essayer.\n\nhttps://www.youtube.com/watch?v=1QnXHe_MIx4\n\nAttention : le nombre de places n'est pas limité. Merci néanmoins de nous signaler - sur MeetUp, Twitter (@AperoWebNancy) ou ailleurs - si vous venez. Si nous sommes trop nombreux, nous ouvrirons une seconde salle. :)"
+    },
+    {
+        "edition": 20,
+        "title": "Apéro Web Nancy #20 : générateurs Javascript / OAuth 2",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/219778846/",
+        "timestamp": "1422554400000",
+        "date": "2015-01-29",
+        "content": "Déjà la vingtième édition des Apéros Web Nancy. Rendez-vous donc à 19h pour parler générateurs Javascript et OAuth 2.0 grâce aux deux talks du soir :\n\n• Co, l'asynchrone facile en Node.js, par Thiery Michel (https://github.com/thierymichel)\n\n• Introduction à OAuth 2, par Kévin Maschtaler (http://kmaschta.me/#/)\n\nAucun sujet n'est encore prévu pour le mois de février. N'hésitez pas à m'en faire part si vous désirez participer ! :)"
+    },
+    {
+        "edition": 21,
+        "title": "Apéro Web Nancy #21 : Go et Meteor",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/220435631/",
+        "timestamp": "1424973600000",
+        "date": "2015-02-26",
+        "content": "Deux talks au programme de cette 21ème édition :\n\nÀ la découverte de Go\n\nQue ce soit pour gérer de manière efficace une multitude de connexions web-sockets ou pour monter en quelques lignes un serveur Web, Go est aujourd'hui un langage incontournable. Gestion de l'asynchrone simplifiée grâce aux channels, nombreuses librairies existantes, langage compilable sur toutes les plate-formes... venez découvrir quelques unes des facettes de ce nouveau langage.\n\nPar Emmanuel Quentin (@manuquentin (https://twitter.com/manuquentin))\n\nIntroduction à Meteor : plate-forme full-stack de nouvelle génération,\n\nDéveloppement web cross-platform, temps réel, déploiement en production, réutilisation de code… Meteor est une plate-forme Javascript full-stack de nouvelle génération traitant la plupart des problèmes auxquels les équipes de développement sont régulièrement confrontées.\n\nCette introduction à Meteor permettra de découvrir les solutions que propose la plate-forme ainsi que ses cas concrets d’utilisation. La présentation se terminera par une rapide session de live-coding permettant d’illustrer et de mettre en application ses aspects clés.\n\nPar Florian Ferbach (@fferbach (https://twitter.com/fferbach))\n\nN'hésitez pas à me soumettre vos talks pour le mois de mars."
+    },
+    {
+        "edition": 22,
+        "title": "Apéro Web Nancy #22 : sécurité Web",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/221050677/",
+        "timestamp": "1427392800000",
+        "date": "2015-03-26",
+        "content": "22ème édition des Apéros Web Nancy placée sous le signe de la sécurité Web.\n\nApplications Web - Sécurité et Innovation\n\nDans cette présentation, nous ferons un point sur l'avancement des innovations par rapport à la sécurité Web. Nous verrons ensemble quels sont les enjeux de la sécurisation, quelques techniques utilisées par des internautes malveillants ainsi que les moyens utilisés pour se prémunir des attaques Web ciblant les nouvelles technologies, les entreprises, et les individus lambda.\n\nPar Thibaut Lombard (http://thibautlombard.cf/b/)."
+    },
+    {
+        "edition": 23,
+        "title": "Apéro Web Nancy #23 : composant sécurité Silex",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/221806250/",
+        "timestamp": "1430413200000",
+        "date": "2015-04-30",
+        "content": "Lors de ce 23ème Apéro Web, Aymeric Larose (https://github.com/a-larose?tab=activity) nous présentera le service de sécurité présent dans le micro-framework Silex (http://silex.sensiolabs.org/), basé sur le module de sécurité de Symfony2. Nous verrons ainsi comment mettre en place une authentification HTTP basique ainsi qu'une gestion des utilisateurs et des rôles, le tout basé sur des exemples concrets : formulaire, UserProvider, hiérarchie des rôles, etc."
+    },
+    {
+        "edition": 24,
+        "title": "Apéro Web Nancy #24 : introduction à l'agilité",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/222454586/",
+        "timestamp": "1432227600000",
+        "date": "2015-05-21",
+        "content": "Agile... Un terme très souvent employé, mais parfois mal appliqué. Yann Gensollen (https://twitter.com/yann_g), consultant agile chez marmelab, nous rappellera les principes fondateurs de l'agilité et nous donnera des pistes afin de l'intégrer progressivement à vos processus de développement."
+    },
+    {
+        "edition": 25,
+        "title": "Apéro Web Nancy #25 : Responsive Design",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/223103445/",
+        "timestamp": "1434646800000",
+        "date": "2015-06-18",
+        "content": "Responsive Design avec Bootstrap 3\n\n* Présentation, tour d’horizon de Bootstrap 3.0\n* Mise en place d’une navigation responsive\n* Le responsive grid : comment contrôler ses colonages en fonction des supports\n* Les helpers class de Bootstrap pour cacher/montrer des sections en fonction des formats\n* Le cas particulier des tableaux\n* Intégration de comportements de boutons pour le mobile dev.\n* Créer des règles CSS en MFRD (Mobile First Responsive Design)\n* Images Retina, media queries et SRCSET\n\nPar Jérôme Poslednik (@washaweb (https://twitter.com/washaweb))"
+    },
+    {
+        "edition": 26,
+        "title": "Apéro Web Nancy #26 : ImProGramming",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/223967783/",
+        "timestamp": "1437670800000",
+        "date": "2015-07-23",
+        "content": "Cette 26ème édition des Apéros Web Nancy se veut participative. Elle consistera en une improvisation collaborative entre tous les spectacteurs. Pendant deux minutes, chacun devra présenter quelques slides dont il prendra connaissance en live. Challenge accepted? :)\n\nSujet inspiré des Ignite Talks pour les connaisseurs : https://fr.wikipedia.org/wiki/Ignite"
+    },
+    {
+        "edition": 27,
+        "title": "Apéro Web Nancy #27 : Création d'un Pong avec Unity",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/224759134/",
+        "timestamp": "1440608400000",
+        "date": "2015-08-26",
+        "content": "Jonathan Petitcolas (http://www.jonathan-petitcolas.com) profitera de cet apéro pour nous faire un retour d'expérience lié à sa découverte récente de Unity (https://unity3d.com), la célèbre plate-forme de developpement de jeux.\n\nNous créerons un clone de Pong, jeu simple nous permettant néanmoins d'approcher grand nombre de concepts : RigidBodies, collisions et triggers, gestion des inputs, etc."
+    },
+    {
+        "edition": 28,
+        "title": "Apéro Web Nancy #28 - Open Data par l'exemple : GTFS",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/225364809/",
+        "timestamp": "1442941200000",
+        "date": "2015-09-22",
+        "content": "Open Data : trouver son chemin dans les données de transport en commun\n\nLes données de transport public sont un bien commun disponibles en open-data et se basent sur la norme GTFS (https://developers.google.com/transit/gtfs/). Elles sont malheureusement peu utilisées et mystifiées alors qu’elles sont au final une source d’informations riche et accessible. Venez découvrir cette norme, comment nous l’avons utilisé dans les transports messins et comment les intégrer dans votre prochaine application.\n\nPar Nicolas Kempf (http://blog.justenico.fr/)."
+    },
+    {
+        "edition": 29,
+        "title": "Apéro Web Nancy #29 - ReactJS",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/226024377/",
+        "timestamp": "1445533200000",
+        "date": "2015-10-22",
+        "content": "Venez découvrir ReactJS (https://facebook.github.io/react/), le framework Javascript en plein essor qui vous permettra de simplifier considérablement vos développements.\n\nPrésentation réalisée par Khalid Jebbari (@dj3bbz (https://twitter.com/dj3bbz))."
+    },
+    {
+        "edition": 30,
+        "title": "Apéro Web Nancy #30 : Phaser.io",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/226906601/",
+        "timestamp": "1448560800000",
+        "date": "2015-11-26",
+        "content": "Apéro découverte de Phaser (http://phaser.io/), un framework de jeux open-source utilisant Canvas et/ou WebGL.\n\nStéphane Gully (https://twitter.com/kerphi79) noux présentera à cette occasion son retour d'expérience sur ce framework lors d'une session de live-coding d'un jeu couplé à des websockets via Socket.io.\n\nRendez-vous donc au Classico ! :)"
+    },
+    {
+        "edition": 31,
+        "title": "Apéro Web Nancy #31 : Webpack",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/227356266/",
+        "timestamp": "1450288800000",
+        "date": "2015-12-16",
+        "content": "Partons ensemble à la découverte de Webpack, un bundler universel permettant de gérer tous les assets de vos projets : Javascript bien entendu, mais également fichiers CSS, SASS, LESS, PNG, CSV, WTF, PDF, etc...\n\nEt, quoi de mieux pour découvrir une technologie qu'une session de live coding ? Jonathan Petitcolas vous y présentera ainsi la mise en place d'un environnement de développement complet : Webpack, ES6 et SASS seront de la partie."
+    },
+    {
+        "edition": 32,
+        "title": "Apéro Web Nancy #32 - ReactJS",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/228056259/",
+        "timestamp": "1453399200000",
+        "date": "2016-01-21",
+        "content": "Après une annulation de dernière minute en novembre, voici la reprogrammation de l'apéro tant attendu sur React. :)\n\n---\n\nVenez découvrir ReactJS (https://facebook.github.io/react/), le framework Javascript en plein essor qui vous permettra de simplifier considérablement vos développements.\n\nPrésentation réalisée par Khalid Jebbari (@dj3bbz (https://twitter.com/dj3bbz))."
+    },
+    {
+        "edition": 33,
+        "title": "Apéro Web Nancy #33 - Magento",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/229036403/",
+        "timestamp": "1456423200000",
+        "date": "2016-02-25",
+        "content": "Magento est une solution e-commerce open source dominante sur le marché, basée sur le framework PHP Zend, et développée sur patron d'architecture MVC (Modèle Vue Contrôleur).\n\nJean-Paul Garcia, qui surfe sur la vibe de Magento depuis maintenant 6 ans, va vous en présenter les fonctionnalités principales ainsi que l'architecture technique mise en oeuvre pour faire fonctionner le \"bousin\" : modèle, layout, bloc, template, contrôleur..."
+    },
+    {
+        "edition": 34,
+        "title": "Apéro Web Nancy #34 - Clojure",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/229765262/",
+        "timestamp": "1459443600000",
+        "date": "2016-03-31",
+        "content": "Clojure (https://clojure.org/) est un langage moderne et fonctionnel, tournant sur la JVM, NodeJS et le CLR. Il permet de créer des programmes simples, robustes et concurrents qui passent à l'échelle sans une égratignure. Parfait pour le Cloud, le Big Data et plus généralement des systèmes distribués.\n\nÀ cette occasion, Geoffrey Gaillard (https://twitter.com/skalde54) vous présentera en live-programming un exemple rapide de word-count utilisant toute la puissance dispo sur son petit PC. Quelque noms évocateurs : Apache Storm, Cascalog, Ring, Datomic..."
+    },
+    {
+        "edition": 35,
+        "title": "Apéro Web Nancy #35 - Blockchains",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/230566259/",
+        "timestamp": "1461862800000",
+        "date": "2016-04-28",
+        "content": "On parle beaucoup des Blockchains, une des technologies piliers de Bitcoin... De nombreux experts estiment qu'il s'agit d'une révolution majeure, similaire à celle qu'Internet a provoqué. Mais que sont-elles réellement ? Et comment les utiliser ?\n\nPour répondre à ces questions, Kévin Maschtaler (https://twitter.com/kmaschta) nous présentera une introduction technique aux Blockchains."
+    },
+    {
+        "edition": 36,
+        "title": "Apéro Web Nancy #37 : tips Angular.js",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/231358619/",
+        "timestamp": "1464282000000",
+        "date": "2016-05-26",
+        "content": "Après une première introduction il y a plusieurs mois à Angular.js (https://angularjs.org/), un second apéro est consacré à ce framework. Jonathan Petitcolas (https://twitter.com/Sethpolma) vous partagera ainsi différentes astuces pour un meilleur développement : logging, routing ou encore optimisation des performances..."
+    },
+    {
+        "edition": 37,
+        "title": "Apéro Web Nancy #37 - Le jeu vidéo à la rescousse du Web !",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/232075517/",
+        "timestamp": "1467219600000",
+        "date": "2016-06-29",
+        "content": "En client-serveur traditionnel, chaque action de l'utilisateur induit un recalcul de toute la page côté serveur, puis le transport du HTML vers le navigateur. PHP et ses frameworks MVC sont conçus pour gérer cette architecture. Mais quand AJAX et HTML5 viennent bouleverser la répartition de ce qui se fait côté client et côté serveur, il est temps de repenser nos outils.\n\nQuelle part de nos frameworks reste pertinente dans une architecture API-centric? PHP est-il condamné à ne servir que des APIs REST? Et quelles architectures côté client peuvent prendre le relais sans faire exploser la complexité de développement ? Paradoxalement, c'est du monde du jeu vidéo que viendra peut-être la clé des applications de demain.\n\nUne conférence sans code, mais avec des dessins. Et des idées pour demain.\n\nPar François Zaninotto (https://twitter.com/francoisz)."
+    },
+    {
+        "edition": 38,
+        "title": "Apéro Web Nancy #38",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/232806051/",
+        "timestamp": "1469725200000",
+        "date": "2016-07-28",
+        "content": "Retrouvons-nous jeudi 28 pour parler technique autour d'un verre !\n\nPS : pas de talk cette fois-ci."
+    },
+    {
+        "edition": 39,
+        "title": "Apéro Web Nancy #39 : les secrets de npm",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/234293511/",
+        "timestamp": "1474995600000",
+        "date": "2016-09-27",
+        "content": "Attention : changement de lieu suite à la fermeture définitive du Classico. Rendez-vous dorénavant à la Rhumerie \"La Plantation\".\n\nTout développeur Node.js a déjà utilisé npm afin d'installer ses librairies préférées. Néanmoins, bon nombre d'options de cette commande sont méconnues. Venez découvrir comment développer tout le potentiel derrière ces trois petites lettres avec Jonathan Petitcolas (https://www.jonathan-petitcolas.com/) (@Sethpolma (https://twitter.com/Sethpolma))."
+    },
+    {
+        "edition": 40,
+        "title": "Web Apps : mais de quoi sont capables nos navigateurs mobiles ?",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/234589982/",
+        "timestamp": "1476464400000",
+        "date": "2016-10-14",
+        "content": "Web Apps : mais de quoi sont capables nos navigateurs mobiles ?\n\nNotifications, offline, accès au son, à la vidéo, etc. : ces fonctionnalités réservées aux applications natives jusque là arrivent dans nos navigateurs grâces à différentes APIS HTML5. Et si les technologies web (re)prenaient une place de plus en plus intéressante dans le paysage applicatif futur ? Découvrons grâce à des cas d'utilisation concrets de quoi seront capables nos navigateurs mobiles dans un futur plus ou moins proche.\n\nPar Stéphanie Walter (https://www.stephaniewalter.fr/).\n\nPS : afin d'éviter des lenteurs quant au service au bar, pouvez-vous s'il vous plaît confirmer votre présence ? Merci ! :)"
+    },
+    {
+        "edition": 41,
+        "title": "Apéro Web Nancy #41: à la découverte de Git",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/235678307/",
+        "timestamp": "1479837600000",
+        "date": "2016-11-22",
+        "content": "Vous pensez que GIT est un dépôt de fichiers ? Vous ne voyez pas comment il va vous permettre de bosser en équipe ? Vous pensez qu'il apporte plus d'inconvénients que d'avantages ?\n\nVenez découvrir comment se servir de l'outil de versionning le plus utilisé sur le marché.\n\nVous allez apprendre comment utiliser GIT de manière efficace, comment profiter de sa puissance pour gérer des situations critiques, comment travailler en équipe distante et pluridisciplinaire.\n\nAu programme :\n\n• créer des branches et travailler avec votre équipe - best practice\n• basculer, fusionner, exploiter les branches - merge, rebase, cherry-pick\n• pull-request, publication et diffusion de version\n• situation critique: comment s'en sortir - push -f, gitk, pointeur\n\nPar BigInt (https://bigint.fr/)."
+    },
+    {
+        "edition": 42,
+        "title": "Apéro Web Nancy #42 : speech-to-text",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/236331893/",
+        "timestamp": "1482256800000",
+        "date": "2016-12-20",
+        "content": "Pour ce 20 décembre, Thibaut Lombard (https://www.twitter.com/ctrlfagency) nous fera une présentation sur le speech-to-text. Cette présentation sera axée principalement sur les technologies de reconnaissance vocale sur Android et Google Chrome. Dans cette présentation nous ferons un tour d'horizon technique sur les fonctionnalités proposées par nos navigateurs et nos applications natives."
+    },
+    {
+        "edition": 43,
+        "title": "Apéro Web Nancy #43 : tests end-to-end",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/237215287/",
+        "timestamp": "1485885600000",
+        "date": "2017-01-31",
+        "content": "Vous êtes en train de développer une application web qui est utilisée en production par de nombreux utilisateurs. Vous voulez effectuer \"une toute petite modification\" sur une partie de l’application.\n\nEt là, c’est le drame. Vous commencez à recevoir des coups de téléphone car votre application est \"plantée\". Vous annulez votre apéro pour réparer l’application sous la pression. C'est dommage, vos tests unitaires étaient bons.\n\nIl existe des solutions permettant d’être plus serein et de mieux dormir la nuit pour éviter ce genre de soucis. Je vais vous présenter quelques outils que j’ai pu essayer et qui vont dans ce sens.\n\nPar Cédric Villa (https://twitter.com/zestprod)."
+    },
+    {
+        "edition": 44,
+        "title": "React Native - \"A Framework for building native apps\" - Learn once, write anywhe",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/237753513/",
+        "timestamp": "1488304800000",
+        "date": "2017-02-28",
+        "content": "On se demande souvent quelle solution mobile hybride choisir quand on démarre un projet, nous vous parlerons aujourd'hui de React Native.\n\nAu programme :\n\n- Pitch (Qu'est-ce que React Native ? Quelles sont ses possibilités et peut-on l'utiliser en prod ? etc..)\n\n- Démonstration à travers la présentation d'une application mobile : Dashboard Epitech\n\n- Live Coding\n\n- Questions & réponses\n\nUne conférence proposée par Jules Dupont (@julesdupont3 (https://twitter.com/julesdupont3)) et Flavian Desverne (@FlavianDesverne (https://twitter.com/FlavianDesverne))"
+    },
+    {
+        "edition": 45,
+        "title": "admin-on-rest : Construisez un BO orienté métier avec React.js et material-ui",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/238434031/",
+        "timestamp": "1490891400000",
+        "date": "2017-03-30",
+        "content": "Les back-offices (aussi appelés admins), tous les clients en veulent, mais sans vouloir payer pour.\n\nEt quand ils se retrouvent avec un phpMyAdmin, ils font la tête.\n\nAvec les outils d'aujourd'hui (React.js, material-ui), on peut développer une admin orientée métier de qualité, mais ça coûte cher... à moins d'utiliser un générateur d'admin.\n\nC'est l'objet d'admin-on-rest, un projet open-source développé par Marmelab, que François Zaninoto vous présentera (@francoisz)."
+    },
+    {
+        "edition": 46,
+        "title": "Applis, IOT, big data : le rôle de la technologie dans les villes de demain !",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/239163343/",
+        "timestamp": "1493310600000",
+        "date": "2017-04-27",
+        "content": "On considère souvent la ville intelligente à travers le prisme de la technologie. Or à ce jour, les retours d’expériences montrent que les approches uniquement technocentrées sont loin de faire l’unanimité. La technologie doit donc s’inscrire comme un outil pour l'humain, certes incontournable, mais non pas une finalité.\n\nA l’heure ou les applications et les objets connectés fleurissent, où le big data devient une religion, on doit se poser certaines questions :\n\n- quel est leur véritable rôle dans l’intelligence de la ville ?\n\n- comment ceux ci doivent s’articuler entre eux pour tendre vers de véritables systèmes intelligents, durables et efficaces ?\n\n- sur quelles technologies s’appuyer ?\n\n- comment rendre cela durable pour la population ?\n\nUn meetup par @casagrande_leo de la société http://greenberry.io/"
+    },
+    {
+        "edition": 47,
+        "title": "Fuc*** standards ! (Ou comment coder \"proprement\")",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/239675218/",
+        "timestamp": "1495643400000",
+        "date": "2017-05-24",
+        "content": "Fabien développe depuis plusieurs années ; fort d'un constat trop souvent partagé, à savoir une qualité de code médiocre rencontrée lors de la reprise de projets, il nous a proposé son REX :\n\n\"A travers ce Meetup je souhaite partager mon expérience et plus particulièrement mettre en lumière l'importance de la qualité du code que vous produisez (en règle générale).\n\nLe code parfait n'existe pas, néanmoins nous pouvons le rendre compréhensible de tous avec un peu de rigueur.\n\nLors de cette conférence, je vais vous détailler les bonnes et les mauvaises pratiques de code, quelque soit le langage, notamment à travers de nombreux exemples rencontrés dans le milieu professionnel.\n\nEnfin, je vous donne des outils et des solutions pour garantir le fonctionnement et la maintenabilité de votre application.\"\n\nSi vous avez des questions / préférences sur la conf :\n\nOrganisation : https://twitter.com/AperoWebNancy\n\nSpeaker : https://twitter.com/vaga_io"
+    },
+    {
+        "edition": 48,
+        "title": "Conférence/Débat : Améliorer son cadre de travail et sa santé",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/240359217/",
+        "timestamp": "1498667400000",
+        "date": "2017-06-28",
+        "content": "Une conférence / débat tenue par Léo THOMAS (@l3o_tom (https://twitter.com/l3o_tom)), ergonome :\n\n\"Nous sommes, en France plus de 16 millions de salariés à travailler sur un ordinateur. Vous connaissez sans doute le syndrome de la souris, en revanche vous n’avez peut-être jamais entendu parler des troubles musculo-squelettiques (TMS). Saviez-vous qu’il s’agit de la maladie professionnelle la plus répandue en France? Et ça n’arrive pas qu’aux autres ! Qui n’a jamais ressenti des douleurs dans la nuque ou des picotements dans les mains le soir en rentrant du travail ?\n\nPassez de longues périodes devant écran peut occasionner de nombreuses lésions sur votre corps mais également être générateur d’une importante fatigue. Les migraines ophtalmiques sont un excellent exemple de fatigue liée à l’utilisation prolongée de l’ordinateur. Mais comment se déclenchent-elles ?\n\nDécouvrez comment prévenir ces douleurs et mieux vivre au quotidien son travail. Le travail c’est la santé ! En êtes-vous certain ?\""
+    },
+    {
+        "edition": 49,
+        "title": "ITmprovise à fond",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/241544641/",
+        "timestamp": "1500481800000",
+        "date": "2017-07-19",
+        "content": "On remet ça!\n\nEn juillet 2015, Jonathan nous avait proposé un meetup inspiré des Ignite Talk ( https://fr.wikipedia.org/wiki/Ignite ).\n\nRetrouvons nous pour un apéro d'été, léger, frais et fun, basé sur de l'improvisation en présentation. Le pitch: 5 slides visuels / 2 minutes de présentation à improviser en découvrant les slides en même temps que votre auditoire!\n\nUne seul contrainte, garder une ligne directrice dans le discours tourné vers le web au sens large ( techno, retour d'expérience, organisation, process, test & qualité, sécurité, bières ... )\n\nIl y aura peut être même une petite surprise pour les speakers volontaires.\n\nTu viens ?"
+    },
+    {
+        "edition": 50,
+        "title": "Les jeux en entreprise, est-ce bien sérieux ?!",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/242160863/",
+        "timestamp": "1503505800000",
+        "date": "2017-08-23",
+        "content": "Avec @Yann_G (https://twitter.com/Yann_G), consultant agile et co-fondateur des unconferences play14.org (https://t.co/I0xqMQU1o7), nous parlerons de l'utilité et du bien fondé des serious games en entreprise.\n\nSimple mode ou vraie tendance de fond, toutes les entreprises ne les ont pas encore adoptées : quels en sont les véritables bienfaits ? Ne serait-ce que de la poudre aux yeux ?\n\nNous en débattrons avec vous lors de ce dernier meetup de l'été !"
+    },
+    {
+        "edition": 51,
+        "title": "Jest : bibliothèque de Tests Unitaires JS proposant des mocks automatiques",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/243149403/",
+        "timestamp": "1505320200000",
+        "date": "2017-09-13",
+        "content": "Vous aviez cru qu'on vous avait oubliés ? Que nenni, on reprend les choses sérieuses après les deux apéros web de la période estivale !\n\nPour entamer la nouvelle année de conférences / débats, c'est le talentueux Jonathan Petitcolas qui nous fera l'honneur de venir partager ses connaissances sur Jest.\n\nJest est la solution recommandée pour tester une application React. Aucune configuration, mocks automatiques, rapidité d'exécution, confort de développement... Promesses marketing ou réalité quotidienne ? Pour le savoir, développons ensemble une application React de base, et testons Jest en conditions réelles.\n\nhttps://github.com/facebook/jest\n\nVenez nombreux !"
+    },
+    {
+        "edition": 52,
+        "title": "Unity3D. De la réalisation de jeux vidéos aux courts métrages en 3D",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/243689281/",
+        "timestamp": "1507307400000",
+        "date": "2017-10-06",
+        "content": "Cette conférence/débat sera exceptionnellement accompagnée de la projection d'un court métrage réalisé sous le moteur Unity :\n\n\"Deux assets gratuits et pré-créés, Ice Golem et Cute- kitten (NPC) destinés à être utilisés librement pour créer des jeux vidéos, coexistent dans un monde où aucun joueur n’intervient. Piégés dans la boucle de leur scripts respectifs, enfermés dans une seule et même action, ils sont contraints de subir l’effondrement de leur univers, impuissants, en attendant l’influence d’un joueur qui ne viendra jamais. Le monde se recharge automatiquement lorsque sa corruption atteint un niveau critique, enfermant les deux personnages dans une boucle sans fin. La vidéo est créée à l’aide du moteur Unity, qui est envisagée comme un studio de tournage plutôt qu’un outil de création de jeu vidéo.\"\n\n-première projection à 18h45\n\n- seconde projection à 19h00\n\nSoyez à l'heure !\n\nUnity, mais qu'est ce que c'est ?!? Jérôme, développeur de jeux vidéos, fera une présentation générale de cet outil. Son fonctionnement, ses différents secteurs d'utilisation, sa prise en main ...\n\nS'en suivra discussions, questions/réponses afin de cerner toute l'étendue et la popularité de Unity.\n\nVenez nombreux !"
+    },
+    {
+        "edition": 53,
+        "title": "Les tests d'acceptance dans un projet PHP par la pratique",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/245074462/",
+        "timestamp": "1511371800000",
+        "date": "2017-11-22",
+        "content": "A l'occasion de ce nouvel apéro web, Vincent Simonin ( Responsable technique chez OpCoding ) viendra nous parler des tests d'acceptance dans un projet PHP.\n\n\"Les tests sont la promesse de productivité et de qualité.\n\nMais souvent mal compris, et considérés comme coûteux, ils ne sont que rarement mis en oeuvre. OpCoding propose de présenter par la pratique, l'intérêt des tests d'acceptance.\n\nAvant tout, on n'oubliera pas de \"remettre en place\" les trois principaux types de tests : unitaires, fonctionnels et acceptance.\n\nVincent Simonin insistera bien sur la frontière (parfois mal appréciée) entre les trois tests.\n\nEt la large partie pratique de cet apéro web, sera consacrée à une démonstration des tests d'acceptance à travers les outils comme Codeception et Selenium. Un point particulier sera fait au sujet des l'intégration continue en lien avec les tests.\"\n\nVincent Simonin est ingénieur en génie des systèmes industriels. Passé du développement industriel au développement web par passion, Vincent a travaillé 8 ans chez le leader Français de la petite annonce de véhicules industriels.\n\nVincent participe à des ateliers d’initiation à l’informatique et à la programmation. Il s’intéresse beaucoup à la transition énergétique et à la domotique. Il a reçu le prix de l’Ecole des Mines de Nancy en 2016 pour une application “Qui consomme le moins ?”"
+    },
+    {
+        "edition": 54,
+        "title": "Présentation de loopback 3",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/245752248/",
+        "timestamp": "1513791000000",
+        "date": "2017-12-20",
+        "content": "Pour ce nouvel apéro web, rejoignez nous pour assister à cette présentation de loopback 3, un framework open source node.js qui permet de créer des API REST avec très peu de code ( voir pas du tout ).\n\n- Accès facilité à des datasources: Oracle, MySQL, PostgreSQL, MS SQL Server, MongoDB, SOAP\n\n- Gestion des relations entre entités\n\n- Gestion des ACL\n\n- Explorable avec swagger\n\n- Modulable à souhait\n\n- ...\n\nPrésenté par Yannick DOMENJOUD, consultant chez 6TECH"
+    },
+    {
+        "edition": 55,
+        "title": "Typage statique, typage dynamique et tutti quanti !",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/246905261/",
+        "timestamp": "1516816800000",
+        "date": "2018-01-24",
+        "content": "Pour ce premier apéro web de l'année,\nValentin Manceaux-Panot viens nous parler de typage, en long, en large, et en travers !\n\nAu programme :\n\"Le typage ressemble beaucoup à une guerre de religion : Tout le monde a sa propre opinion sur le sujet, et personne n'écoute celle des autres. Ce soir, je vous propose d'écouter mon opinion, et pourquoi j'ai raison.\n\nJe parlerai typage dynamique, typage statique, et quelles peuvent être les avantages de l'un par rapport à l'autre. Attention, cette présentation sera fortement dogmatique :D\"\n\nRejoignez nous pour un apéro qui promet d'être fort en débats et discussions :)"
+    },
+    {
+        "edition": 56,
+        "title": "GraphQL, l'avenir du REST",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/247798599/",
+        "timestamp": "1519322400000",
+        "date": "2018-02-22",
+        "content": "REST est devenu un standard pour les APIs web.\nMais malgré sa popularité, il est plein de défauts. Son successeur existe et il vient de Facebook. Venez découvrir en détail le principe, la mise en oeuvre et l’écosystème de GraphQL.\n\nUn meetup présenté par François Zaninotto, CEO chez Marmelab."
+    },
+    {
+        "edition": 57,
+        "title": "Vue.js, un framework évolutif !",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/248339827/",
+        "timestamp": "1521655200000",
+        "date": "2018-03-21",
+        "content": "En mars, il n'y pas que la Saint Patrick, il y aussi l'apéro web Nancéien mensuel !\n\nCe mois-ci, Guillaume & Mathieu viennent nous parler de Vue.js :\n\"Vue.js se définit comme un framework évolutif et c’est vrai dans tous les sens du terme. Facile à apprendre et à intégrer dans ses applications, il s’adapte à tous les niveaux et à tous les projets, du side-project sans prétention à l’application robuste et bien testée d’une grande entreprise. Cette évolutivité n’est pas étrangère à sa fulgurante ascension et nous allons voir pourquoi ce framework pourrait bien être juste ce qu’il vous faut...\"\n\nUn apéro web qui risque de vous en mettre plein la Vue ( ok je sors :) )"
+    },
+    {
+        "edition": 58,
+        "title": "10 raisons pour lesquelles vos confs sont nulles... et comment y remédier.",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/249491076/",
+        "timestamp": "1524675600000",
+        "date": "2018-04-25",
+        "content": "Ce mois ci, pas de technique pure et dure au programme, mais des conseils pour vos présentations.\n\nJonathan Petitcolas viendra partager avec nous son expérience sur cet exercice de style.\n\n\"Vos confs sont nulles... Rassurez-vous, les miennes aussi, même si légèrement moins. Depuis mes débuts de speaker il y a une dizaine d'années, j'ai en effet beaucoup appris. Et c'est pour partager mes astuces glanées sur le terrain que je vous convie ce soir. Conf garantie sans langue de bois ni belles théories.\"\n\nDu web, des bières, de l'apero web :)"
+    },
+    {
+        "edition": 59,
+        "title": "Présentation de Power BI : la solution décisionnelle Microsoft.",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/250915644/",
+        "timestamp": "1527094800000",
+        "date": "2018-05-23",
+        "content": "En mai, entre les ponts, les jours fériés ca nous laisse peu de temps... Mais ne perdons pas de vue les choses importantes ! De la tech, des bières, un comptoir et des discussions animées :)\n\nCe mois ci, Jean Sebastien Padoan, viendra nous présenter Power BI, l'outil décisionnel de visualisation interactive des données made by tonton Microsoft.\n\n\"Quand on boit des bières, c’est important de prendre la bonne décision : on peut regarder des courbes, des cartes, poser des questions en langage naturel. Attention à bien articuler !\n\nTout ça gratuitement, et c’est toujours moins cher que l’happy hour qui se termine au poste ! .\"\n\nDu web, des bières, de l'apero web :)"
+    },
+    {
+        "edition": 60,
+        "title": "Apéro T-Rex",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/251896522/",
+        "timestamp": "1530117000000",
+        "date": "2018-06-27",
+        "content": "Jurassic park a son \"T-Rex\". Vu que le thé c'est pas la politique de la maison, on t'invite à participer au \"Beer-Rex\" de l'apéro web du mois de juin.\nUn apéro participatif comme tu les aimes ! Pour échanger tous ensemble sur les apéro web Nancy et ce que vous attendez de nos meetup pour la suite.\nQuelles sont vos envies en terme de technos abordées ? Sous quel format (conférence / débats) ? On vous attend de pied ferme pour en débattre :)"
+    },
+    {
+        "edition": 61,
+        "title": "IT improvise à fond",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/252969713/",
+        "timestamp": "1532536200000",
+        "date": "2018-07-25",
+        "content": "On remet ça!\n\nComme chaque année en juillet, on vous propose un meetup inspiré des Ignite Talk ( https://fr.wikipedia.org/wiki/Ignite ).\n\nRetrouvons nous pour un apéro d'été, léger, frais et fun, basé sur de l'improvisation en présentation.\n\nLe pitch: 5 slides visuels / 2 minutes de présentation à improviser en découvrant les slides en même temps que votre auditoire!\n\nCette année on dérive également le principe du cadavre exquis pour une session 5 slides / 5 speaker.\n\nUne seul contrainte, garder une ligne directrice dans le discours tourné vers le web au sens large ( techno, retour d'expérience, organisation, process, test & qualité, sécurité, bières ... )\n\nIl y aura peut être même une petite surprise pour les speakers volontaires.\n\nAlors tu viens ?"
+    },
+    {
+        "edition": 62,
+        "title": "C'est les vacances ! ",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/253975193/",
+        "timestamp": "1535560200000",
+        "date": "2018-08-29",
+        "content": "Fin août, c'est encore les vacances pour certain!\n\nComme on a encore un peu les doigts de pied en éventail, et comme annoncé lors du dernier AW, ce mois ci, pas de speaker (sauf si tu as envie, toi, caché au fond de la salle, de nous présenter quelque chose en dernière minute).\n\nMais même sans speaker, on vous propose de se retrouver quand même pour échanger, discuter, raconter des bêtises (ou pas), boire un (des?) verre(s).\n\nEn gros, si vous n'êtes pas sur la plage, venez, on profite encore un peu des vacances :)"
+    },
+    {
+        "edition": 63,
+        "title": "8 façons de rejeter la faute sur l’autre équipe",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/254680009/",
+        "timestamp": "1537981200000",
+        "date": "2018-09-26",
+        "content": "\"Comment il veut qu'on intègre ça ? Et ça rend quoi sur mobile ? Et pourquoi on a 12 boutons différents pour la même action ?\"\n— Développeuse venant de recevoir le fichier \"final_v2_final_approved.psd\"\n\n\"C'est mon design ça ? Pourquoi rien n'est aligné ? Et c'est quoi cette police ? Et c'est quoi cette résolution d'image sur mon iTruc ultra-retina ?\"\n— Graphiste découvrant l'intégration de son design\n\nSi l'une de ces deux citations vous semble familière, ce n'est pas un hasard. Très souvent, développeurs et designers ne se comprennent pas. Différence d'outils, de vocabulaire, de manière de penser... Les causes de désaccord ne manquent pas.\n\nÉlodie Thiebaut (@Code_CodeC) et Jonathan Petitcolas (@Sethpolma) passeront en revue les raisons principales de ces incompréhensions, et surtout, comment les résoudre.\n\nVenez nombreux ! ;)\n\n(et en plus c'est pas sans alcool ^^)"
+    },
+    {
+        "edition": 64,
+        "title": "Un magasin sans vendeur ? Inenvisageable... sur votre site e-commerce non plus !",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/256181707/",
+        "timestamp": "1542216600000",
+        "date": "2018-11-14",
+        "content": "Imaginez... vous êtes en ville, vous faites des courses. Vous entrez chez un sommelier, car vous voulez une bonne bouteille de vin pour agrémenter ce repas que vous préparez depuis un moment !\nMais une fois dans la boutique, personne...\nVous voila devant une infinité de bouteilles, mais aucun sommelier pour vous aider à choisir LA bouteille.\n\nInenvisageable, n'est-ce-pas ? Pourtant, en ligne, c'est souvent le cas.\n\nSailendra, experte en marketing prédictif, édite Sailsense, l'accélérateur de ventes pour le e-commerce permettant de se substituer au vendeur en magasin, grâce à l'analyse des comportements dans une boutique en ligne.\n\nOn vous propose d'aborder les nouvelles stratégies webmarketing ainsi qu'un point technique, ponctué par une approche du monde de l'intelligence artificielle.\n\nUne conférence présentée par Elias Ohayon, Directeur des opérations chez Sailendra (@Elias_Ohayon)"
+    },
+    {
+        "edition": 65,
+        "title": "Vous reprendrez bien un peu de growth hacking ?!",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/256907510/",
+        "timestamp": "1544119200000",
+        "date": "2018-12-06",
+        "content": "Après le mois de Novembre sur le thème du marketing prédictif, le prochain meetup abordera cette fois d'autres facettes du web Marketing avec @VincentCourquet, Growth Hacker et Sébastien, fondateur de @Tomorrowjobs\n\nAu programme :\n1) C'était mieux avant\n2) Grosse quoi ?\n3) Et il disrupta le hot-dog game...\n4) Des hacks et des tools\n5) Un savant mélange\n\nHackers de tout bord, venez nombreux !\n\nEt si, comme moi, vous ne comprenez rien à ce texte, voila une bonne raison pour venir prendre un verre avec nous !"
+    },
+    {
+        "edition": 66,
+        "title": "Apéro Web Nancy #66: Atomic Design en production, Retour d'expérience ",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/257863625/",
+        "timestamp": "1548871200000",
+        "date": "2019-01-30",
+        "content": "Bonne année! Tous nos vœux de bulles, de code, de performance, scalabilité, sécurité et maintenabilité à toutes et à tous ! (oui oui, même vous les créas )\n\nPour débuter cette nouvelle année, Nicolas Mercky (https://twitter.com/nickyskool) de Boursorama vient nous partager un REX sur Atomic Design !\n\n\"Atomic Design en production : Retour d'expérience sur le développement d'interfaces modulaires et scalables.\n\nOublions les \"pages\" web ! En ce début d'année 2019, je vous propose un résumé de notre façon de développer des interfaces web à Boursorama avec une approche orientée composant.\n\nAu programme :\n- Atomic design en clair : ce n'est pas qu'un buzzword\n- A mesure que l'équipe grandit, on ne peux plus faire de front \"comme à l'époque\" : pourquoi on a choisi cette méthodo et en quoi elle nous a aidé à livrer du code de meilleure qualité et des interfaces réutilisables\n- Comment nous avons mis ce concept en oeuvre et continuons à l'utiliser au quotidien : la plus-value des styleguides pour la communication inter-services\n- Styleguide \"vivant\", notre librairie de composants alimente avec le même code à la fois le site de production et le site de documentation\n- De l'Atomic Design au Design System : la librairie de composants n'est qu'une seule facette du process de conception d'interfaces\n\"\n\nÇa sera peut être un peut trop tard pour la galette des rois, mais à la place on prendra des bières ^^ (faites gaffe à la fève)"
+    },
+    {
+        "edition": 67,
+        "title": "Apéro Web Nancy #67: AWS et serverless ? Trop facile !* (reporté au 24/04)",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/259727702/",
+        "timestamp": "1556125200000",
+        "date": "2019-04-24",
+        "content": "Ce mois ci, c'est Jonathan Petitcolas (https://twitter.com/Sethpolma) qui s'y colle!\n\nAWS, serverless, devops... Une liste de buzzwords assurant à elle seule un bon référencement de cet événement. Mais qu'en est-il réellement ? Avez-vous déjà ouvert la console AWS ? Avez-vous abandonné suite à la kyrielle de services existants ? Si oui, cette conf est faîte pour vous.\n\nDurant ce talk, nous allons aborder un cas concret : le déploiement d'une application statique privée sur un serveur S3 (pensez FTP), derrière une distribution CloudFront (pensez Nginx). De la germination de cette infrastructure chez Tint.ai à sa mise en place, cette conférence ne sera pas purement technique, mais sera l'occasion d'un réel retour d'expérience d'un débutant AWS qui a étudié la question pendant plusieurs mois.\n\nVenez nombreux ! ;)\n\n( * : après avoir vu cette conf )"
+    },
+    {
+        "edition": 68,
+        "title": "Flutter, encore un framework mobile ?",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/261458429/",
+        "timestamp": "1558544400000",
+        "date": "2019-05-22",
+        "content": "En mai, on fait ce qu'il nous plait, et on espère que ça va vous plaire aussi !\nGuillaume Migeon viendra vous présenter le Framework Flutter qui permet de créer des applications Android et iOS.\nSorti il y a 2 ans, est-il encore possible pour le framework de Google de s'imposer sur le marché cross-platform ?\nQue vaut-il en comparaison des autres Frameworks mobiles pour le développement d applications hybrides, tel ReactNative ?\nDes feedbacks, du code, et des bières, on vous attend nombreux"
+    },
+    {
+        "edition": 69,
+        "title": "Chaos Engineering. \"Chef, on peut tout casser\" ?!?!",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/262414756/",
+        "timestamp": "1561568400000",
+        "date": "2019-06-26",
+        "content": "Pour l'apéro web de ce mois de Juin, Sylvain Vaglica de Publicis.Sapient viendra nous parler de 🤘 Chaos Engineering 🤘\n\n\"Que se passerait-il si je lâchais mon gorille dans la salle serveur ?\"\n\nEh oui, c'est bien cette idée saugrenue qui est à l'origine du paradigme nommé \"Chaos Engineering\".\nCe terme barbare désigne une pratique émergente consistant à malmener ses propres infrastructures informatiques afin de tester leur robustesse en conditions réelles.\n\nNetflix, Google, Amazon, et d'autres grands groupes l'ont déjà adopté.\nMême la SNCF, pionniers en France.\n\nEn plus, les copains de The achievement ont la clim et de la bière fraîche au comptoir ;)\n\nTu viens ?"
+    },
+    {
+        "edition": 70,
+        "title": "IT improvise à fond. Volume 3",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/263194026/",
+        "timestamp": "1564592400000",
+        "date": "2019-07-31",
+        "content": "Pour finir le mois de juillet, on remet un peu d'impro en présentation au programme :)\n\nComme chaque année en juillet, on vous propose un meetup inspiré des Ignite Talk ( https://fr.wikipedia.org/wiki/Ignite ).\n\nLe pitch: 5 slides visuels / 2 minutes de présentation à improviser en découvrant les slides en même temps que votre auditoire!\n\nUne seul contrainte, garder une ligne directrice dans le discours tourné vers le web au sens large ( techno, retour d'expérience, organisation, process, test & qualité, sécurité, bières ... )\n\nEt cette année si tu te sens l'envie des préparer des slides à faire présenter par les participants, tu peux même nous contacter :)\n\nAlors si tu es en congés (ou pas) et que tu veux mic drop comme Barack, viens tester l'exercice !"
+    },
+    {
+        "edition": 71,
+        "title": "Improvisation et retour de vacances 🌴",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/265279273/",
+        "timestamp": "1571245200000",
+        "date": "2019-10-16",
+        "content": "Vous aviez cru qu'on vous avait oubliés ? #aperoweb reprend les choses sérieuses après la pause de la période estivale !\nNous ferons une session de présentations en impro, slides fournies par nous, histoire de se retrouver, boire un coup et discuter des vacances 🍻"
+    },
+    {
+        "edition": 72,
+        "title": "Générer un site statique moderne et rapide avec la JAMstack",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/266254555/",
+        "timestamp": "1574877600000",
+        "date": "2019-11-27",
+        "content": "On revient en novembre, avec un Apéro Web qui va nous parler de la JAMstack !\nC'est le terme utilisé pour décrire une façon de développer des sites statiques en utilisant du code JavaScript client s’appuyant sur différentes sources de données telles que des APIs, du Markdown, des CMS, du JSON, etc. et dont le contenu est ensuite généré de manière statique afin d’optimiser au maximum les performances.\nCela représente un changement de paradigme qui s’opère depuis quelques années déjà et où le backend cède de plus en plus sa place au frontend du fait de la montée en puissance des frameworks JavaScript récents tels que React ou Vue mais aussi du fait que les solutions “Backend as a Service” se démocratisent."
+    },
+    {
+        "edition": 73,
+        "title": "Les  services du Cloud Azure",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/266940066/",
+        "timestamp": "1576692000000",
+        "date": "2019-12-18",
+        "content": "Pour décembre, on vous propose un Apéro Web sur les services Azure :\n\nAujourd'hui les services Cloud sont dominants dans le WEB, dans ces services Azure détiens 14% des parts du marché. Il est le service Cloud qui monte le plus vite, il est aujourd'hui utilisé par plus de 80% des 500 plus grandes entreprises. Le but de cette présentation n'est pas de vous convertir à Azure mais de comprendre pourquoi ce service est si populaire aujourd'hui. Ce n'est pas qu'un simple service d'hébergement, voyons ensemble ce qu'il a à présenter."
+    },
+    {
+        "edition": 74,
+        "title": "Comment faire une refonte d'une fonctionnalité ultra critique ?",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/267746190/",
+        "timestamp": "1580320800000",
+        "date": "2020-01-29",
+        "content": "On est de retour pour la première présentation de l'année !\n\nAu cours de cette présentation, nous verrons comment faire les migrations sur une fonctionnalité critique d'un site à fort trafic en s'appuyant sur le cas de la migration de la brique de virement de Boursorama en 2019.\nOn abordera dans cette présentation la méthodologie utilisé : la livraison continue, le double run, les features flags et friends and family, le tout dans une architecture distribuée. Nous verrons également comment l'analyse du métier a aiguillé nos choix de refactorisation et d'évolution."
+    },
+    {
+        "edition": 75,
+        "title": "Qu'est-ce que du bon code™ ?",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/268474147/",
+        "timestamp": "1582740000000",
+        "date": "2020-02-26",
+        "content": "ESLint, PSR, gofmt, PEP 8, il existe tout un tas de normes de codes pensées pour écrire du code \"propre\". Et malgré tout ça, tout le monde a déjà croisé du code \"moche\", même dans des code bases récentes et bien surveillées. Qu'est-ce qui fait du code sale ? Qu'est-ce qui fait du code propre ? D'ailleurs, est-ce qu'un bon développeur écrit toujours du code propre ? Est-ce qu'un code sale est toujours indicateur d'un mauvais développeur ?\nVenez pour partir avec beaucoup de questions, peu de réponses, mais peut être quelques pistes de réflexion pour mieux appréhender le problème !"
+    },
+    {
+        "edition": 77,
+        "title": "🚀 Typescript, le nouvel eldorado du développement web ? 🚀",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/270620304/",
+        "timestamp": "1590598800000",
+        "date": "2020-05-27",
+        "content": "Delia Solutions vous propose une conférence en ligne 💻, animée par Corentin, Benjamin et Jérémy pour vous initier à un nouveau langage qui prend de plus en plus d’ampleur. ⚙️\n\nAu programme:\n\n✅ Partage de notre expérience, quelles sont nos motivations et en quoi l’utilisation d’outils innovants nous permet d’améliorer nos services\n\n✅ Présentation de TypeScript et de ses fonctionnalités, l’évolution de Javascript, qui est à la pointe de la tendance technologique\n\n✅ Les intérêts à s’orienter vers ce langage qui répondra à beaucoup de besoins en développement informatique et augmentera la qualité de vos développements\n\nUn langage de programmation moderne et fiable est essentiel pour un développeur web 👨‍💻, mais il peut être difficile de trouver celui qui vous correspond ou d’en changer, chacun ayant ses propres avantages et vous vos propres habitudes.\n\nDécouvrez dans ce live les dernières innovations pour mieux vous accompagner dans la création d’application web structurée et ainsi booster votre activité.📈\n\nLa conférence durera 30 minutes et sera disponible sur Youtube ▶️. Vous aurez l’occasion de nous poser toutes vos questions et nous répondrons à un maximum d’entre elles. 🤝\n\nOn vous attend nombreux pour échanger et interagir lors de ce moment convivial ! 🗣"
+    },
+    {
+        "edition": 78,
+        "title": "Déployer une application on-premise dans une infrastructure bi-site",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/271061785/",
+        "timestamp": "1593018000000",
+        "date": "2020-06-24",
+        "content": "L'usage du cloud et des applications en SaaS nous abstrait le déploiement des applications dans nos infrastructures.\nPourtant, dans certains cas, le recours à l'hébergement On-premise est la seule garantie de protection concernant le stockage et l'exploitation des données sensibles.\nVoyons comment peut-on intégrer et déployer une solution logicielle au sein d'une infrastructure composée de plusieurs sites d'hébergements.\n\nPour le besoin de la présentation, j'utiliserais l'exemple d'un chatbot comprenant une dizaine de langages et de technologies différentes.\n\nAu programme :\n* Briefing sur la notion de disponibilité d'une infrastructure\n* Analyse de la structure de l'application et identification des contraintes imposées par l'infrastructure\n* Présentation des choix qui ont été faits et leurs conséquences."
+    },
+    {
+        "edition": 79,
+        "title": "⚡ Lightning talks",
+        "meetupLink": "https://www.meetup.com/fr-FR/Aperos-Web-Nancy/events/271647092/",
+        "timestamp": "1596042000000",
+        "date": "2020-07-29",
+        "content": "On se retrouve en Juillet pour une session de lightning talks !\n\nLe principe est simple : Plusieurs speakers, chacun ayant 5 minutes pour présenter un sujet.\n\nSi vous souhaitez participer, n'hésitez pas à nous contacter :)"
+    }
+]
