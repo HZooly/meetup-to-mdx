@@ -16,12 +16,11 @@ const rawTalks = fs.readFileSync(process.argv[2])
 const talks = JSON.parse(rawTalks)
 
 const getTalkContent = (talk) => {
+  const title = talk.title.replace(/"/g, '\\"')
   return `---
 edition: ${talk.edition}
 meetupLink: '${talk.meetupLink}'
-title: '${talk.title} #${talk.edition}'
-description:
-speakers:
+title: "${title}"
 ---
 
 ${talk.content}`
